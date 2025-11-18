@@ -62,12 +62,12 @@ The Carbon Footprint Tracker helps users understand their environmental impact b
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/carbon-footprint-tracker.git
+git clone https://github.com/mohamedayoub97/carbon-tracker.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd carbon-footprint-tracker
+cd carbon-tracker
 ```
 
 3. Open `index.html` in your web browser
